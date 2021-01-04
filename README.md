@@ -13,7 +13,7 @@ More specifically, this repository contains:
 
 4. The ipynb notebook named as 'lineplot_of_folds_vs_auc_in_corrected_and_updated.ipynb' that contains the thesis lineplots' generation.
  
-5. The excel files 'folds_vs_auc_in_corrected.xlsx' and 'folds_vs_auc_in_updated.xlsx' that contain the mean validation auc of both 'Assistments2009_corrected' and 'Assistments2009_updated' per fold. These files are needed for bullet 4.
+5. The excel files 'folds_vs_auc_in_corrected.xlsx' and 'folds_vs_auc_in_updated.xlsx' that contain the mean validation auc of both 'Assistments2009_corrected' and 'Assistments2009_updated' per fold. These files are needed in 4.
 
 6. The ipynb notebook named as 'skill_name_fasttext_emb.ipynb' contains the FastText embeddings generation for all the datasets.
 
