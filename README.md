@@ -3,7 +3,7 @@
 
 More specifically, this repository contains:
 
-1. The files 'data' and 'embeddings' that include all the datasets and the embeddings needed to run the model.
+1. The files 'data' and 'embeddings' that include all the datasets and the embeddings needed to run the model. Due to the limitation in uploading files more than 25MB, the big files containing the whole datasets, without the splits, that are needed for word embeddings generation are omitted. Nonethess, if needed, you can contact me to share those files in a different way.
 
 2. The ipynb notebook named as 'Thesis_model.ipynb' that contains the final model architecture of the thesis.
 
